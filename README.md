@@ -135,9 +135,8 @@ This repo includes a **GitHub-synced study tracker** built from scratch.
 
 If you're also preparing for SAA-C03, feel free to fork this repo, use the tracker, and reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](www.linkedin.com/in/pavankumarpagi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/pavankumarpagi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github)](https://github.com/pavankumar-5999)
-
 ---
 
 <div align="center">

@@ -7,7 +7,6 @@
 ![AWS](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Course-Stephane%20Maarek-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
-![Days](https://img.shields.io/badge/Duration-41%20Days-green?style=for-the-badge)
 
 <br/>
 
